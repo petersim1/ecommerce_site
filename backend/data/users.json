@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Peter Simone",
+        "email":"plssimone@gmail.com",
+        "password":"adminadmin",
+        "role":"admin",
+        "avatar":{
+            "public_id":"avatars/default_avatar_nrt0dj",
+            "url":"https://res.cloudinary.com/dicsjxe8k/image/upload/v1625078241/avatars/default_avatar_nrt0dj.jpg"
+        }
+
+    }
+]
